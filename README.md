@@ -282,7 +282,7 @@ Solicitud 3
 > #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment #EducacionContinua #CursosOnline #Emprendedores
 
 ### Mapa de navegación para el sitio web (3c)
-Finalmente le solicitamos a ChatGPT un ajuste para el sitio web. Nos arrojó el siguiente gráfico.
+Finalmente le solicitamos a ChatGPT un ajuste para el sitio web. Nos arrojó el siguiente gráfico que corregimos para que quedara en el orden que necesitábamos.
 ![Mapa_navegacion](https://github.com/user-attachments/assets/009b6c52-f034-4fd4-bb3e-b0e25bd681c1)
 
 -------------
