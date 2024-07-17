@@ -1,4 +1,4 @@
-# Proyecto-IA-Creativa
+<img width="1232" alt="image" src="https://github.com/user-attachments/assets/769ee30e-4b84-4ce8-81ed-a727f07fed7d"># Proyecto-IA-Creativa
 ![Proyecto IA Creativa](https://github.com/user-attachments/assets/b3bcf339-ae4d-4508-b3d1-054f3879a5b4)
 
 -------------
@@ -103,7 +103,6 @@ Se hicieron las solicitudes para tres versiones de campañas de correo electrón
 > https://us22.campaign-archive.com/?e=__test_email__&u=2769cfe631c370ad896776945&id=d42f82f616
 
 Solicitud 1
-
 > Versión 1: Curso de Inglés para Emprendedores
 > Asunto: ¡Lleva tu emprendimiento al siguiente nivel con nuestro curso de Inglés para Emprendedores!
 > 
@@ -199,3 +198,81 @@ Solicitud 3
 Se hicieron las solicitudes para tres versiones de campañas para revistas digitales cambiando el lugar el anuncio, se proponen las revistas: Forbes y Expansión por el tipo de usuario que buscamos.
 
 
+Solicitud 1
+> Versión 1
+> Domina el Inglés y Expande tu Negocio con Omegamark Edutainment
+> En el competitivo mundo de los negocios, la capacidad de comunicarse eficazmente en inglés puede marcar la diferencia entre el éxito y el estancamiento. En Omegamark Edutainment, ofrecemos un curso de Inglés para Emprendedores diseñado para ayudarte a superar las barreras lingüísticas y abrir nuevas oportunidades internacionales.
+> 
+> **¿Por qué elegir nuestro curso?**
+> - **Comunicación Empresarial Efectiva:** Aprende a redactar correos electrónicos profesionales, negociar y presentar ideas con confianza.
+> - **Flexibilidad y Accesibilidad:** Clases online en vivo que se adaptan a tu horario.
+> - **Expertos en la Materia:** Instructores calificados con experiencia en el mundo de los negocios internacionales.
+> - **Networking Global:** Conecta con otros emprendedores y expande tu red profesional.
+> 
+> **Testimonio de Éxito:**
+> "Gracias a Omegamark Edutainment, he podido expandir mi negocio internacionalmente y comunicarme con nuevos socios de manera efectiva." - María López, CEO de Tech Innovators
+> 
+> **Transforma tu futuro profesional hoy mismo. Inscríbete en nuestro curso de Inglés para Emprendedores y lleva tu negocio al siguiente nivel.**
+> 🔹 **Fecha de Inicio:** [Fecha de inicio del curso]  
+> 🔹 **Duración:** [Duración del curso]  
+> 🔹 **Modalidad:** Online en vivo
+> **Visita nuestro sitio web para más información y para inscribirte:** [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> ---
+> **Omegamark Edutainment**
+> Transforma tu futuro
+> [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment #EducacionContinua #CursosOnline #Emprendedores
+
+Solicitud 2
+> Versión 2
+> ¡Impulsa tu Negocio con nuestro Curso de Inglés para Emprendedores!
+> ¿Quieres llevar tu negocio al siguiente nivel y no sabes por dónde empezar? ¡Domina el inglés con Omegamark Edutainment y abre las puertas a nuevas oportunidades!
+> 
+> Nuestro **Curso de Inglés para Emprendedores** está pensado para ti, que buscas comunicarte mejor, negociar con confianza y expandir tu red internacional. 
+> 
+> **¿Por qué te encantará nuestro curso?**
+> - **Comunicación Empresarial:** Aprende a escribir correos pro, negociar contratos y presentar tus ideas sin miedo.
+> - **Flexibilidad Total:** Clases online en vivo que se adaptan a tu ritmo y horarios.
+> - **Instructores con Experiencia:** Profesionales que saben lo que necesitas para triunfar en el mundo de los negocios.
+> - **Conexiones Globales:** Conoce a otros emprendedores y haz crecer tu red.
+> 
+> **Lo que dicen nuestros estudiantes:**
+> "Gracias a Omegamark Edutainment, he podido expandir mi negocio internacionalmente y comunicarme con nuevos socios de manera efectiva." - María López, CEO de Tech Innovators
+> 
+> **No esperes más. Inscríbete ya y empieza a transformar tu futuro profesional.**
+> 🔹 **Inicio:** [Fecha de inicio del curso]  
+> 🔹 **Duración:** [Duración del curso]  
+> 🔹 **Modalidad:** Online en vivo
+> **Visita nuestro sitio web para más detalles y para inscribirte:** [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> ---
+> **Omegamark Edutainment**
+> Transforma tu futuro
+> [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment #EducacionContinua #CursosOnline #Emprendedores
+
+
+Solicitud 3
+> Versión 3
+> En un mundo cada vez más globalizado, dominar el inglés no es solo una ventaja, ¡es una necesidad! En Omegamark Edutainment, hemos creado un curso especialmente diseñado para emprendedores como tú, que buscan crecer y conquistar nuevos mercados.
+> 
+> **Curso de Inglés para Emprendedores**:
+> 
+> **Beneficios que no puedes dejar pasar:**
+> - **Comunicación Empresarial:** Mejora tu capacidad para redactar correos, negociar y presentar tus ideas con claridad y confianza.
+> - **Flexibilidad:** Clases online en vivo que se ajustan a tu ritmo y horario.
+> - **Instructores Expertos:** Profesionales con amplia experiencia en negocios internacionales.
+> - **Networking:** Conecta con otros emprendedores y amplía tu red de contactos globales.
+> 
+> **Testimonio Real:**
+> "Gracias a Omegamark Edutainment, he podido expandir mi negocio internacionalmente y comunicarme con nuevos socios de manera efectiva." - María López, CEO de Tech Innovators
+>
+> **No pierdas esta oportunidad de transformar tu futuro profesional. Inscríbete hoy y comienza a dominar el inglés con nosotros.**
+> 🔹 **Inicio del Curso:** [Fecha de inicio del curso]  
+> 🔹 **Duración:** [Duración del curso]  
+> 🔹 **Modalidad:** Online en vivo
+> **Para más información y para inscribirte, visita:** [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> ---
+> **Omegamark Edutainment**
+> Transforma tu futuro
+> [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
+> #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment #EducacionContinua #CursosOnline #Emprendedores
