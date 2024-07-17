@@ -85,4 +85,117 @@ Para las publicaciones en redes sociales, le solicitamos a ChatGPT en la misma l
 
 ### Calendario editorial
 El resultado de la información lo incluimos en el siguiente calendario editorial.
+|          | Lunes                      | Martes | Miércoles                                  | Jueves | Viernes                                 |
+|----------|----------------------------|--------|--------------------------------------------|--------|------------------------------------------|
+| Semana 1 | Lanzamiento de marca       | No se publica | Curso Destacado - Inglés para Profesionales | No se publica | Testimonio de cliente                    |
+| Semana 2 | Curso Destacado - Desarrollo Web Completo | No se publica | Servicio Destacado - Consultoría Educativa | No se publica | Blog y Recursos: 5 habilidades tecnológicas más demandadas |
+
+### Contenidos para redes sociales (3c)
+Insertamos los contenidos en una presentación para que puedan consultarlos. Aquí
+![Diapositiva16](https://github.com/user-attachments/assets/2e1ed427-7d5d-4f2a-ad9e-5977f1bf7248)
+
+Todos los contenidos se pueden consultar en el siguiente enlace.
+
+> https://view.genially.com/6697f41f582eeb2d24239b32/interactive-content-contenidos-redes-sociales-ia-bedu
+
+### Campañas de correo (3c)
+Se hicieron las solicitudes para tres versiones de campañas de correo electrónico, subimos una de ellas a Mailchimp para que se pueda visualizar en el navegador.
+> https://us22.campaign-archive.com/?e=__test_email__&u=2769cfe631c370ad896776945&id=d42f82f616
+
+Solicitud 1
+
+> Versión 1: Curso de Inglés para Emprendedores
+> Asunto: ¡Lleva tu emprendimiento al siguiente nivel con nuestro curso de Inglés para Emprendedores!
+> 
+> ¡Hola [Nombre]!
+> 
+> ¿Estás listo para llevar tu emprendimiento al siguiente nivel? En Omegamark Edutainment, entendemos que como emprendedor, necesitas habilidades lingüísticas sólidas para expandir tu negocio y comunicarte eficazmente con clientes y socios internacionales. 
+>
+>  Nuestro **Curso de Inglés para Emprendedores** está diseñado específicamente para ayudarte a:
+> - Comunicarte con confianza en reuniones de negocios.
+> - Redactar correos electrónicos y documentos profesionales.
+> - Negociar y cerrar acuerdos internacionales.
+> - 
+> **¡No pierdas esta oportunidad! Inscríbete hoy y comienza a transformar tu futuro profesional.**
+> 🔹 **Fecha de Inicio:** [Fecha de inicio del curso]
+> 🔹 **Duración:** [Duración del curso]
+> 🔹 **Modalidad:** Online en vivo
+> **Testimonio de éxito:**
+> "Gracias a Omegamark Edutainment, he podido expandir mi negocio internacionalmente y comunicarme con nuevos socios de manera efectiva." - María López, CEO de Tech Innovators
+> 
+> Visita nuestro sitio web para más información y para inscribirte: [Enlace al curso]
+> 
+> ¡Esperamos verte pronto en clase!
+> Saludos cordiales,
+> 
+> [Tu Nombre]  
+> [Tu Cargo]  
+> Omegamark Edutainment
+> 
+> #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment
+
+Solicitud 2
+> Versión 2: Curso de Redes Sociales para PYMES
+> Asunto: Impulsa tu PYME con nuestro curso de Redes Sociales
+> 
+> ¡Hola [Nombre]!
+> 
+> En Omegamark Edutainment, sabemos que una presencia fuerte en redes sociales es esencial para el éxito de cualquier PYME. Es por eso que hemos diseñado un curso especializado para ayudarte a dominar las estrategias de marketing digital y maximizar tu alcance en las plataformas sociales.
+> 
+> **Curso de Redes Sociales para PYMES** te enseñará a:
+> - Crear contenido atractivo y relevante.
+> - Planificar y ejecutar campañas efectivas.
+> - Analizar métricas para mejorar continuamente tu estrategia.
+> 
+> **¡Inscríbete ahora y lleva tu negocio al siguiente nivel!**
+> 🔹 **Fecha de Inicio:** [Fecha de inicio del curso]
+> 🔹 **Duración:** [Duración del curso]
+> 🔹 **Modalidad:** Online en vivo
+> 
+> **Testimonio de éxito:**
+> "El curso de redes sociales de Omegamark Edutainment ha sido fundamental para aumentar nuestra visibilidad y atraer nuevos clientes." - Juan Pérez, Fundador de Green Solutions
+> Visita nuestro sitio web para más información y para inscribirte: [Enlace al curso]
+> 
+> No dejes pasar esta oportunidad de mejorar tu estrategia digital.
+> Saludos cordiales,
+> 
+> [Tu Nombre]  
+> [Tu Cargo]  
+> Omegamark Edutainment
+> 
+> #RedesSocialesParaPYMES #TransformaTuFuturo #OmegamarkEdutainment
+
+Solicitud 3
+> Versión 3: Capacitación en Innovación Digital para Empresas
+> Asunto: Lleva tu empresa a la vanguardia con nuestra capacitación en Innovación Digital
+> 
+> Estimado [Nombre],
+> 
+> La transformación digital es clave para mantener la competitividad en el mercado actual. En Omegamark Edutainment, ofrecemos un servicio de capacitación en Innovación Digital diseñado para ayudar a tu empresa a adoptar nuevas tecnologías y metodologías innovadoras.
+> 
+> **Nuestro servicio de Capacitación en Innovación Digital** incluye:
+> - Estrategias para la digitalización de procesos.
+> - Implementación de tecnologías emergentes.
+> - Desarrollo de una cultura de innovación dentro de tu equipo.
+> 
+> **¡Contáctanos hoy y descubre cómo podemos ayudarte a transformar tu empresa!**
+> 🔹 **Modalidad:** Programas personalizados según las necesidades de tu empresa.
+> 🔹 **Duración:** Flexibilidad en tiempos y horarios.
+> 
+> **Testimonio de éxito:**
+> "La capacitación en innovación digital de Omegamark Edutainment ha revolucionado nuestros procesos y mejorado nuestra eficiencia operativa." - Ana García, Directora de Operaciones en Smart Tech
+> Para más información y para agendar una consulta, visita nuestro sitio web: [Enlace al servicio]
+> 
+> Esperamos poder colaborar contigo para llevar tu empresa al siguiente nivel.
+> 
+> Saludos cordiales,
+> [Tu Nombre]  
+> [Tu Cargo]  
+> Omegamark Edutainment
+> 
+> #InnovaciónDigital #TransformaTuEmpresa #OmegamarkEdutainment
+
+### Campañas para revistas digitales (3c)
+Se hicieron las solicitudes para tres versiones de campañas para revistas digitales cambiando el lugar el anuncio, se proponen las revistas: Forbes y Expansión por el tipo de usuario que buscamos.
+
 
