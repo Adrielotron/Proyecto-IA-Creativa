@@ -1,4 +1,3 @@
-<img width="1232" alt="image" src="https://github.com/user-attachments/assets/769ee30e-4b84-4ce8-81ed-a727f07fed7d"># Proyecto-IA-Creativa
 ![Proyecto IA Creativa](https://github.com/user-attachments/assets/b3bcf339-ae4d-4508-b3d1-054f3879a5b4)
 
 -------------
@@ -8,6 +7,11 @@
 - María Teresa Matamoros Montes
 - Marco Aurelio Rivas Nava
 - Adriel Patrón Ponce
+
+-------------
+Comando general usado en ChatGPT para su consulta.
+> <br>https://chatgpt.com/share/e5dcf809-0297-4aec-9c6f-25ae0e6aee06<br>
+
 
 -------------
 ## Paso 1. Selección del proyecto
@@ -276,3 +280,32 @@ Solicitud 3
 > Transforma tu futuro
 > [www.omegamark-edutainment.com](https://www.omegamark-edutainment.com)
 > #TransformaTuFuturo #InglésParaEmprendedores #OmegamarkEdutainment #EducacionContinua #CursosOnline #Emprendedores
+
+### Mapa de navegación para el sitio web (3c)
+Finalmente le solicitamos a ChatGPT un ajuste para el sitio web. Nos arrojó el siguiente gráfico.
+![Mapa_navegacion](https://github.com/user-attachments/assets/009b6c52-f034-4fd4-bb3e-b0e25bd681c1)
+
+-------------
+## Paso 4. Revisiones
+- Revisamos todo el contenido y realizamos los ajustes a los textos que fue desarrollando la herramienta para que todo quedara en orden en las versiones finales.
+- Realizamos las versiones solicitadas para cada contenido de tal manera que mejoraran la información.
+- Todo se puede consultar en el enlace que compartimos previamente.
+
+-------------
+## Paso 5. Fact Checking
+- En nuestro caso el proceso de revisión de los datos y evaluación de las alucinaciones fue realizado a medida que se crearon los contenidos, por otro lado, como no hay información que esté anclada a una situación específica y contextual donde se ofrezcan datos, fechas y demás, no fue necesario un proceso exhaustivo.
+
+-------------
+## Presentación
+A continuación compartimos el proyecto completo en formato de presentación.
+[Proyecto IA Creativa.pdf](https://github.com/user-attachments/files/16272192/Proyecto.IA.Creativa.pdf)
+
+-------------
+## Referencias completas
+Consultas completas a ChatGPT
+<br>https://chatgpt.com/share/e5dcf809-0297-4aec-9c6f-25ae0e6aee06<br>
+
+Consultas completas a Gemini
+- [Consulta 1](https://g.co/gemini/share/d8d92017b079)
+- [Consulta 2](https://g.co/gemini/share/49c211735efc)
+- [Consulta 3](https://g.co/gemini/share/c77295bef9cc)
