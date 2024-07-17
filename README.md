@@ -46,3 +46,24 @@ El resultado de los pasos se puede consultar a continuación (2c):
 - [Consulta 3](https://g.co/gemini/share/c77295bef9cc)
 
 
+### Auditoría de redes y referencias visuales de la competencia (2d)
+Posteriormente realizamos una auditoría de redes de la competencia y detectamos los siguientes factores:
+
+| Competencia | Observaciones | Referencias visuales |
+|-------------|---------------|----------------------|
+| **Preply Business**<br>https://preply.com<br>**Servicio:**<br>Cursos para empresas | Revisa esta página web, dime cuáles son sus servicios y cuál es el enfoque que tiene para conseguir clientes. Esta es una página web sobre aprender idiomas en línea. La empresa se conecta a estudiantes con tutores expertos que les ayudan a alcanzar sus metas. Preply ofrece una variedad de servicios, incluyendo clases de inglés, español, francés, alemán, chino, japonés, portugués y más. Los tutores son cuidadosamente seleccionados y tienen experiencia enseñando a estudiantes de todas las edades. Preply también ofrece tutoría corporativa para empresas. | **Linkedin**<br>https://www.linkedin.com/company/preply/<br>**Instagram**<br>https://www.instagram.com/preply/<br>**Facebook**<br>https://www.facebook.com/preply |
+| **BSC Education**<br>https://www.bsceducation.com<br>**Servicio:**<br>Cursos | Revisa esta página web, dime cuáles son sus servicios y cuál es el enfoque que tiene para conseguir clientes. De acuerdo con la página web, BSC Education ofrece una variedad de servicios de aprendizaje de inglés, incluyendo cursos para adultos, jóvenes y profesores. También ofrecen preparación para exámenes de inglés como IELTS y OET. Su enfoque para conseguir clientes se basa en el uso de una variedad de canales de marketing, como el marketing digital, las recomendaciones de amigos y familiares, y la asistencia a ferias y eventos educativos. | **Linkedin**<br>https://www.linkedin.com/school/bsceducation/<br>**Instagram**<br>https://www.instagram.com/bsc_education/<br>**Facebook**<br>https://www.facebook.com/bsceducationgroup/ |
+| **American Management Association**<br>https://amamex.org.mx<br>**Servicio:**<br>Capacitación | Revisa esta página web, dime cuáles son sus servicios y cuál es el enfoque que tiene para conseguir clientes. AMA Global ofrece una amplia gama de servicios de capacitación y consultoría para personas, equipos y organizaciones. Estos servicios se pueden adaptar a las necesidades específicas de cada cliente, y se enfocan en desarrollar habilidades y conocimientos que ayuden a las empresas a alcanzar sus objetivos. Servicios: cursos programados, soluciones inCompany, Consultoría. | **Linkedin**<br>https://www.linkedin.com/company/ama-global/<br>**Instagram**<br>https://www.instagram.com/ama_global/<br>**Facebook**<br>https://www.facebook.com/AMAGLOBAL |
+Compartimos el análisis realizado en las siguientes diapositivas.
+
+### Competidor 1
+![Diapositiva10](https://github.com/user-attachments/assets/72dbca64-f7ab-4fa3-a06d-62a5a565fd9e)
+
+### Competidor 2
+![Diapositiva11](https://github.com/user-attachments/assets/37af37a5-ed49-4c6f-a847-adf33f6b4d8c)
+
+### Competidor 3
+![Diapositiva12](https://github.com/user-attachments/assets/b46efb33-7416-48d4-85f1-0c03cd73e631)
+
+
+
