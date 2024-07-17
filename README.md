@@ -103,8 +103,10 @@ Todos los contenidos se pueden consultar en el siguiente enlace.
 > https://view.genially.com/6697f41f582eeb2d24239b32/interactive-content-contenidos-redes-sociales-ia-bedu
 
 ### Campañas de correo (3c)
-Se hicieron las solicitudes para tres versiones de campañas de correo electrónico, subimos una de ellas a Mailchimp para que se pueda visualizar en el navegador.
+Se hicieron las solicitudes para tres versiones de campañas de correo electrónico, subimos una de ellas a Mailchimp para que se pueda visualizar en el navegador. Las otras versiones se encuentran debajo de la imagen.
 > https://us22.campaign-archive.com/?e=__test_email__&u=2769cfe631c370ad896776945&id=d42f82f616
+<img width="502" alt="Captura de pantalla 2024-07-16 a la(s) 6 05 49 p m" src="https://github.com/user-attachments/assets/6df03b26-11d5-47b5-8a8c-ed9e7b3dd293"> 
+
 
 Solicitud 1
 > Versión 1: Curso de Inglés para Emprendedores
