@@ -81,6 +81,8 @@ Realizamos una solicitud a ChatGPT para que nos desarrollara el concepto creativ
 > - Eslogan: “Empoderando Emprendedores y Profesionistas”.
 
 Para las publicaciones en redes sociales, le solicitamos a ChatGPT en la misma línea de la conversación, publicaciones para redes sociales, contenidos para mail y el anuncio para revistas digitales. Aquí incluimos toda la solicitud:
-> [https://chatgpt.com/share/e5dcf809-0297-4aec-9c6f-25ae0e6aee06]<img width="372" alt="image" src="https://github.com/user-attachments/assets/bd63a9ad-c3ec-4a15-a04b-0de83afc7a0a">
+<br>https://chatgpt.com/share/e5dcf809-0297-4aec-9c6f-25ae0e6aee06<br>
 
+### Calendario editorial
+El resultado de la información lo incluimos en el siguiente calendario editorial.
 
