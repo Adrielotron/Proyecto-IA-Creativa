@@ -65,5 +65,22 @@ Compartimos el análisis realizado en las siguientes diapositivas.
 ### Competidor 3
 ![Diapositiva12](https://github.com/user-attachments/assets/b46efb33-7416-48d4-85f1-0c03cd73e631)
 
+-------------
+## Paso 3. Draft de contenido
+Para elaborar la lista de los puntos clave a cubrir desarrollamos una estrategia de marketing digital a través de la metodología del embudo de marketing, el gráfico se puede consultar después de la explicación.
+1. **Fase 1 -** En esta fase atraemos a los usuarios para que nos conozcan, el punto de entrada puedes ser con el posicionamiento SEO en Google, anuncios en Google que en este caso sería para una **revista digital**. Al mismo tiempo hacemos **campañas orgánicas y pagadas en las redes sociales**. Estas campañas apuntarán hacia el sitio web para que los usuarios puedan conocer a nuestra marca, dejarnos sus datos o consumir directamente alguno de los servicios.
+2. **Fase 2 -** En esta fase convertimos a los usuarios en prospectos interesados en nuestros servicios a través de Calls to Action, generalmente a través del llenado de los formularios en una landing page o creamos un microsistema de compra directa de los servicios.
+3. **Fase 3 -** En esta fase recuperamos los mails que los usuarios dejaron en los formularios del sitio web y les enviamos **correos electrónico** a través de una campaña de mailing preparada previamente con la información de nuestras promociones hasta que suceda la compra.
+De esta manera nos aseguramos de que los usuarios consuman nuestros servicios a través de una estrategia integrada.
+
+![Estrategia marketing](https://github.com/user-attachments/assets/8b96aebe-3412-496b-95ea-648da5c4d4a1)
+
+### Concepto creativo
+Realizamos una solicitud a ChatGPT para que nos desarrollara el concepto creativo, que es el centro sobre el cual oscilan todos los contenidos.
+> - **Transforma tu Futuro con Omegamark Edutainment.**
+> - Eslogan: “Empoderando Emprendedores y Profesionistas”.
+
+Para las publicaciones en redes sociales, le solicitamos a ChatGPT en la misma línea de la conversación, publicaciones para redes sociales, contenidos para mail y el anuncio para revistas digitales. Aquí incluimos toda la solicitud:
+> [https://chatgpt.com/share/e5dcf809-0297-4aec-9c6f-25ae0e6aee06]<img width="372" alt="image" src="https://github.com/user-attachments/assets/bd63a9ad-c3ec-4a15-a04b-0de83afc7a0a">
 
 
